@@ -347,7 +347,7 @@ console.log(result); */
 
 
 
-const sum = (num1,num2) => {
+/* const sum = (num1,num2) => {
     return num1+num2;
 }
 
@@ -355,4 +355,4 @@ const double = (num) => {
     return num*2;
 }
 
-console.log(sum(double(10), double(5)));
+console.log(sum(double(10), double(5))); */
