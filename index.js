@@ -356,6 +356,10 @@ const double = (num) => {
 }
 
 console.log(sum(double(10), double(5))); ?*
+console.log(sum(double(10), double(5))); ?*
+console.log(sum(double(10), double(5))); ?*
+console.log(sum(double(10), double(5))); ?*
+console.log(sum(double(10), double(5))); ?*
 
 
 
